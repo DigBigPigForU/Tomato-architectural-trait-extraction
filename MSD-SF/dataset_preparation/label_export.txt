@@ -1,0 +1,4 @@
+1 stems 170 85 0 
+2 fruits 170 0 255 
+3 leaves 255 170 0 
+4 flowers 255 0 127 
