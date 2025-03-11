@@ -11,4 +11,4 @@ This process includes the following three areas of work:
 
 3.Extraction of plant architectural traits.
 
-Example data are also given in /data_examples for reference.
+Example data are also given in /data_examples, /MSD-SF/datasets, /3D reconstruction/datasets, /3D reconstruction/map_and_pose_data, /plant architectural traits extraction/bootstrap/instances_and_traits_data for reference.
